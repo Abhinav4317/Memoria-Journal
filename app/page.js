@@ -223,7 +223,7 @@ export default async function LandingPage() {
         <Card className="bg-gradient-to-r from-orange-100 to-amber-100">
           <CardContent className="p-12 text-center">
             <h2 className="text-3xl font-bold text-orange-900 mb-6">
-              Start Reflct-ing on Your Journey Today
+              Start Reflecting on Your Journey Today
             </h2>
             <p className="text-lg text-orange-700 mb-8 max-w-2xl mx-auto">
               Join thousands of writers who have already discovered the power of

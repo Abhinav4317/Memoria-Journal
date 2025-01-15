@@ -8,7 +8,7 @@ import "react-quill-new/dist/quill.snow.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Reflct",
+  title: "Memoria",
   description: "",
 };
 
